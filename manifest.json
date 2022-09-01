@@ -1,6 +1,6 @@
 {
-    "name": "Minha Primeira App Progressiva",
-    "short_name": "Primeira PWA",
+    "name": "Calculadora Retangulo",
+    "short_name": "Calc Área",
     "icons": [
         {
             "src": "images/pwa-icon-256.png",

@@ -36,10 +36,10 @@ display: flex;
 flex-direction: column;
 align-items: center;
 
-max-width: 80%;
+max-width: 80vw;
 
 background-color: #222831;
-padding: 50px 50px;
+padding: 5vw;
 border-radius: 20px;
 
 row-gap:3px;
@@ -49,6 +49,7 @@ row-gap:3px;
 .title{
 
 font-size: 3rem;
+text-align: center;
 
 
 }
